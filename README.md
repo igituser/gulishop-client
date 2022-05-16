@@ -1,4 +1,4 @@
-# vue_prac
+# gulishop-client
 
 ## Project setup
 ```
